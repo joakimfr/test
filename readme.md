@@ -1,6 +1,6 @@
 # Hello git world!
 
 
-Email: fritzjoakim@hotmail.com
+Epost: fritzjoakim@hotmail.com
 
 Username: Joakimfr
